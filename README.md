@@ -8,7 +8,7 @@
     <br>
     <img src="https://raw.githubusercontent.com/ProjectSakura/ProjectSakura.github.io/master/loading.gif" width="150px" height="150px" align="center">
     <br><br>:pizza: Take a look at my stats :P<br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LordShenron&&show_icons=true&&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LordShenron&&show_icons=true&&theme=tokyonight" />
   </samp>
 </p>
 
